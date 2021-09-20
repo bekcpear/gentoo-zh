@@ -5,7 +5,7 @@ EAPI=7
 
 inherit toolchain-funcs flag-o-matic
 
-DESCRIPTION="Resource Compiler for ELF binaries"
+DESCRIPTION="Resource Compiler for ELF binariesdas"
 HOMEPAGE="http://elfembed.sourceforge.net/index.php"
 SRC_URI="mirror://sourceforge/${PN}/${P}.tar.gz"
 
